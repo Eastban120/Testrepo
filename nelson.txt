@@ -1,2 +1,6 @@
 Hola,
 soy Nelson, un archivo de prueba para aprender GitHub.
+Creo que este archivo esta incompleto.
+Debemos agregarle un par de lineas para que esté más productivo.
+Muchas gracias
+
